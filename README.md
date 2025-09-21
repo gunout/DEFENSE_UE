@@ -12,6 +12,11 @@
     chmod +x Army.py
     python3 Army.py
 
+# EXAMPLES 
 
-    
+<img width="5971" height="7070" alt="Allemagne_army_integration_analysis" src="https://github.com/user-attachments/assets/577aa1c2-e0bb-4b9b-bf50-d0e294ed3ecd" />
+
+PS : CE SCRIPT FOURNIT DES RESULTATS AU FORMAT .csv ( TABLEUR ) 
+
+
 By Gleaphe 2025 . 
